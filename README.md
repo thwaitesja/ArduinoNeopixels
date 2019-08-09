@@ -13,3 +13,6 @@
 # g         green       255
 # m         mode        5
 # s         speed       9
+
+# use MyLED as a current computer driver
+# use light4.0 as the current arduino driver
